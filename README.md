@@ -1,0 +1,1 @@
+This application is designed to process links, make API requests, extract XML data, and save it in CSV format. It also provides a user interface that allows users to input links and initiate the processing process.
